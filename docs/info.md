@@ -18,7 +18,7 @@ Example:
   - A = 0110 (6), B = 1001 (9)  
   - `uo_out = 8'b00101110` → Decimal 54 (6×9)
 
-No clock is needed for this project; output is purely combinational.
+
 
 ---
 
